@@ -22,6 +22,8 @@ Then the program will do some installation, after completion of which, It will l
 The downloads will probably be saved in the same directory where your IDE is open and will be saved ina the folder named "Object Name images". <br />
     For example: If you have inserted the object name as 'Running Shoes' then the downloaded images will be safed in the folder named 'Running Shoes Images', and the folder will       probably be in the same directory where your IDE is open.<br />
 
+**Note: Please don't perform any operation on the launced chrome while the program is being executing, not even scrolling the website, otherwise the program will be terminated.**<br />
+
 For any issue, feel free to connect me.<br />
 
 You are most welcome to contribute.<br />
