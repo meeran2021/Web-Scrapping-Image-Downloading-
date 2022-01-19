@@ -20,7 +20,7 @@ After successfully installing it, open the file in your IDE and run.<br />
 It will ask you to input object name. You need to provide the name of the object of whose image you are looking for.<br />
 Then the program will do some installation, after completion of which, It will launch chrome driver start looking for the image on Ecosia website and will automatically download them one by one.<br />
 The downloads will probably be saved in the same directory where your IDE is open and will be saved ina the folder named "Object Name images". <br />
-    For example: If you have inserted the object name as 'Running Shoes' then the downloaded images will be safed in the folder named 'Running Shors Images'. and the folder will       probably be in the same directory where your IDE is open.<br />
+    For example: If you have inserted the object name as 'Running Shoes' then the downloaded images will be safed in the folder named 'Running Shoes Images', and the folder will       probably be in the same directory where your IDE is open.<br />
 
 For any issue, feel free to connect me.<br />
 
